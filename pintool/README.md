@@ -17,5 +17,5 @@ mr:0x7ffda459d718:8:0x227db4f8
 ```
 i:0x89173e:8:488BB42490000000
 메모리EXE : [addr]:[length]:[value]
-488BB42490000000 : mov    rsi,QWORD PTR [rsp+0x90]
+ - 488BB42490000000 : mov    rsi,QWORD PTR [rsp+0x90]
 ```
